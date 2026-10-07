@@ -20,7 +20,7 @@ todaysSpecial = "Enchiladas verdes";
 availableTables = 2;
 
 console.log(
-    "\nUpdated Report\n" +
+    "Updated Report\n" +
     "Restaurant: " + restaurantName + "\n" +
     "Cuisine: " + cuisine + "\n" +
     "City: " + city + "\n" +
