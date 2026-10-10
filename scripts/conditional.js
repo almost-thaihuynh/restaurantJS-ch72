@@ -95,7 +95,7 @@ if(isWeekend || isHoliday){
     console.log("Restaurat is open");
 }
 
-// if inside a function
+// if statement inside a function
 // you will need this for the assignment
 
 function checkAge(age){
